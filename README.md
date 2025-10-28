@@ -93,33 +93,4 @@ MIT License - feel free to use in personal and commercial projects.
 
 Built with ❤️ by Talha Nawaz
 
-text
-
-## 🐦 **TWITTER LAUNCH POST**
-
-```text
-🚀 LAUNCHED: Prism SDK - Modern Java UI Framework!
-
-Finally, beautiful desktop apps in Java without the Swing boilerplate hell!
-
-✨ What is Prism?
-- React-like simplicity for Java
-- Fluent API that feels like JavaScript
-- Beautiful UIs by default
-- Zero boilerplate
-
-🎯 Quick demo:
-```java
-PrismButton.create("Click Me!")
-          .withPosition(50, 50)
-          .render();
-🔥 Why this matters:
-Java devs can now build modern desktop apps faster than ever. No more being forced to learn web stack just for good UIs!
-
-🔗 GitHub: github.com/txlcodes/prism-sdk
-📺 Demo video: [add your gif/video link]
-
-#Java #OpenSource #UI #Programming #DevTools
-
-👉 Star the repo if you're tired of Swing complexity! ⭐
 
